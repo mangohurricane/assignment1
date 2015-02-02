@@ -19,3 +19,10 @@ user can also click the send email botton on the top to send the claim to email(
 
 4.after the user adds all his item in his claim, he can click the 'calculated sum' botton to calculate sum of the items in claim.(the 'calculated sum' has no funtion in it since I did not finish this part)
 
+
+
+Video demo:
+
+ 
+
+https://www.youtube.com/watch?v=hgb_We44p-A&feature=youtu.be
